@@ -6,22 +6,44 @@
 ## Curiculum
 - Versions
 - Contract
+- Comments
 - Data Types
   - Integer
   - Usigned Integer
+  - Fixed Point Numbers
   - Boolean
   - String
+    - Escaped Charecters
+  - Byte
   - Array
   - Struct
   - Enum
   - Address
-  - Byte
+  - Mapping
 - Variables
   - State Variables
+  - Local Variables
+  - Global Variables
   - Constant Variables
   - Immuteable Variables
-  - Global Variables
+  - Variables Scope
+    - Public
+    - Private
+    - Internal
 - Operators
+  - Arithmetic Operators
+  - Comparison Operators
+  - Logical/Relational Operators
+  - Assignment Operators
+  - Conditional/Ternary Operators
+- Loops
+  - While Loop
+  - Do While Loop
+  - For Loop
+- Decision Making Statements
+  - If
+  - If Else
+  - If Else If
 - Functions
   - Function Modifiers
   - Internal Function Calls
@@ -39,6 +61,7 @@
     - Function Overriding
   - Abstract Contracts
   - Interfaces
+- Imports
 - Libraries
 - Miscelineous
   - Best Practices

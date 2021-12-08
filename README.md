@@ -50,7 +50,7 @@
 - Programming Language
   - JavaScript
   - Node
-  - Solidity
+  - [Solidity](docs/SOLIDITY.md)
 - Libraries
   - React
   - Web3
