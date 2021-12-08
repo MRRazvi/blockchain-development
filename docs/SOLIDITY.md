@@ -14,12 +14,14 @@
   - Boolean
   - String
     - Escaped Charecters
-  - Byte
+  - Byte / Bytes
   - Array
   - Struct
   - Enum
   - Address
   - Mapping
+  - Units (Wei, Ether, Minutes, Day, ...)
+- Conversions
 - Variables
   - State Variables
   - Local Variables
