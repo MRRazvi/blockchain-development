@@ -33,6 +33,7 @@
   - Protocol
   - Tokens
   - Smart Contracts
+  - ERC (20, 721, ...)
   - ABI
   - VM
   - Gas Fee
@@ -57,3 +58,5 @@
   - Truffle
 - Testing
   - Jest
+  - Ganache
+  - Testnet
