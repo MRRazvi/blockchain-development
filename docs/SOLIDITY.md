@@ -48,15 +48,18 @@
   - If Else If
 - Functions
   - Function Modifiers
-  - Internal Function Calls
-  - External Function Calls
+  - Function Calling
+    - Internal Function Calls
+    - External Function Calls
   - View Functions
   - Pure Functions
-  - Special Functions
   - Fallback Functions
+  - Special Functions
+    - Mathematical Functions
+    - Cryptographic Functions
 - Events
 - Errors
-- OOP
+- COP
   - Constructors
   - Inheritence
     - Function Overloading
