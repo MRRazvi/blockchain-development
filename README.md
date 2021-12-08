@@ -60,3 +60,6 @@
   - Jest
   - Ganache
   - Testnet
+
+## Guides
+- [Solidity](docs/SOLIDITY.md)

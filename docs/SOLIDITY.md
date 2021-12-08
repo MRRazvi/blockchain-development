@@ -1,5 +1,8 @@
 # Solidity
 
+## Rules
+- All Bolds are important to know
+
 ## Curiculum
 - Versions
 - Contract
