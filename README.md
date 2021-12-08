@@ -3,6 +3,9 @@ This is little contribution to world so others can easily learn blockchain.
 
 Blockchain is future of development, it provides downtime free, censorship free, fraud free system so you can easily build any application where trust is one of the big issue.
 
+#### How you can take this guide more efficiently?
+As name suggested it's roadmap, so I will just tell you which topics you need to know in which order. So just search that topic on internet and learn those.
+
 ## Prerequisites
 - Frontend
   - HTML
@@ -84,5 +87,5 @@ You need to learn blockchain step by step as it's comes to real world. So first 
 ## Guides
 - [Solidity](docs/SOLIDITY.md)
 
-### Author
-Mubashir Rasool Razvi <rizimore@outlook.com>
+## Author
+Mubashir Rasool Razvi (<rizimore@outlook.com>)
