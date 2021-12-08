@@ -1,7 +1,5 @@
 # Solidity
-
-## Rules
-- All Bolds are important to know
+Solidity is contract-baes, high level programming language to develop smart contracts mainly for ethereum virtual machine.
 
 ## Curiculum
 - Versions
