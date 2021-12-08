@@ -1,6 +1,28 @@
 # Blockchain Roadmap
+This is little contribution to world so others can easily learn blockchain.
+
+Blockchain is future of development, it provides downtime free, censorship free, fraud free system so you can easily build any application where trust is one of the big issue.
+
+Now a days internet is place of earning not mainly for information, so any application where you need trust, blockchain can be a option.
+
+## Prerequisites
+- Frontend
+  - HTML
+  - CSS
+  - JavaScript
+- Backend
+  - Programming Language
+  - Database
+  - APIs
+- Concepts
+  - Central vs. Distributed Systems
+  - Networking
+  - Basic Data Structures
+  - Basic Cryptography
 
 ## Generations
+You need to learn blockchain step by step as it's comes to real world. So first learn generation 01 blockchain then 02 and so on.
+
 - Generation 01
   - Simple Ledger
   - Digital Currencies
