@@ -1,17 +1,17 @@
 # Solidity
-Solidity is contract-baes, high level programming language to develop smart contracts mainly for ethereum virtual machine.
+Solidity is contract-base, high level programming language to develop smart contracts mainly for ethereum virtual machine.
 
-## Curiculum
+## Curriculum
 - Versions
 - Contract
 - Comments
 - Data Types
   - Integer
-  - Usigned Integer
+  - Unsigned Integer
   - Fixed Point Numbers
   - Boolean
   - String
-    - Escaped Charecters
+    - Escaped Characters
   - Byte / Bytes
   - Array
   - Struct
@@ -25,7 +25,7 @@ Solidity is contract-baes, high level programming language to develop smart cont
   - Local Variables
   - Global Variables
   - Constant Variables
-  - Immuteable Variables
+  - Immutable Variables
   - Variables Scope
     - Public
     - Private
@@ -59,14 +59,13 @@ Solidity is contract-baes, high level programming language to develop smart cont
 - Errors
 - COP
   - Constructors
-  - Inheritence
+  - Inheritance
     - Function Overloading
     - Function Overriding
   - Abstract Contracts
   - Interfaces
 - Imports
 - Libraries
-- Miscelineous
+- Miscellaneous
   - Best Practices
-  - Resever Keywords
-
+  - Reserve Keywords

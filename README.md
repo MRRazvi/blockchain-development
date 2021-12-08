@@ -32,15 +32,14 @@ You need to learn blockchain step by step as it's comes to real world. So first 
   - Smart Contracts
 - Generation 03
   - Scaling
-  - Bottelneck
+  - Bottleneck
   - Cloud Node
   - Open Chain Access
-  - Blocklet
   - Incentive for Self Evolution
 - Generation 04
   - AI
 
-## Curiculum
+## Curriculum
 - Basics
   - Digital Signatures
   - Hashing
