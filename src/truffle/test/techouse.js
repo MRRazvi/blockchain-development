@@ -1,8 +1,8 @@
 const TecHouse = artifacts.require("TecHouse");
 
-contract("TecHouse", function (/* accounts */) {
-  it("should assert true", async function () {
-    await TecHouse.deployed();
-    return assert.isTrue(true);
+contract("TecHouse", function () {
+  it("contract deployed successfully", async function () {
+    const address = TecHouse.deployed()
+    assert(address !== "")
   });
 });
