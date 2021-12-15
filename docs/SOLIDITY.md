@@ -40,7 +40,7 @@ Solidity is contract-base, high level programming language to develop smart cont
   - While Loop
   - Do While Loop
   - For Loop
-- Decision Making Statements
+- Decision-Making Statements
   - If
   - If Else
   - If Else If
