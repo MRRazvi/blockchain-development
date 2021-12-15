@@ -1,6 +1,11 @@
 # React JS
+React is a javascript library for building:
+- user interfaces
+- single page applications
+- reusable
 
 ## Curriculum
+- ES5
 - Fundaments
   - Create React App
   - Components
@@ -12,5 +17,41 @@
   - Hooks
     - useState
     - useEffect
-  - Component Lifecycle Methods
+  - Events
+  - Lifecycle of Components
   - Conditional Rendering
+  - List & Keys
+  - CSS Styling
+  - Building Simple Forms
+  - Composition
+  - Inheritance
+- Advanced
+  - HTTP Requests
+    - Context
+    - Refs
+    - Error Boundaries
+    - Portals
+    - API Requests
+  - Hooks
+    - useContext
+    - useReducer
+    - useRef
+    - useMemo
+    - useCallback
+    - Custom Hooks
+  - High Order Components
+  - Render Props
+  - Reconciliation
+- Ecosystem
+  - State Management (Redux)
+  - Routing (React Router)
+  - Styling (Styled Components, Tailwind CSS, Material UI)
+  - Forms (Formik)
+  - Testing (Jest + React Testing Library, Cypress)
+  - Misc
+    - TypeScript
+    - React i18
+    - Others (Data Visualization, Date Picker, Drag & Drop, Skeleton Loader, etc.)
+- Framework
+  - Next.js (Server Side Rendering)
+  - React Native (Mobile Development)
