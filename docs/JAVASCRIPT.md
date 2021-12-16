@@ -108,3 +108,8 @@
   - Storage
   - Video & Audio
   - Drawing Graphics
+- Tooling & Misc
+  - Linters (eslint)
+  - Code Formatters (prettier)
+  - Bundlers (webpack)
+  - TypeScript
