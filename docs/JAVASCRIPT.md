@@ -102,3 +102,9 @@
     - esm
     - import / export
     - default and named exports
+- Web APIs
+  - DOM
+  - XHR & Fetch
+  - Storage
+  - Video & Audio
+  - Drawing Graphics
