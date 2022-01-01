@@ -24,11 +24,11 @@ As name suggested its roadmap, so I will just tell you which topics you need to 
 
 ## Technologies
 - Programming Language
-  - [JavaScript](docs/JAVASCRIPT.md)
+  - [JavaScript](guides/JAVASCRIPT.md)
   - Node
-  - [Solidity](docs/SOLIDITY.md)
+  - [Solidity](guides/SOLIDITY.md)
 - Libraries
-  - [React](docs/REACT.md)
+  - [React](guides/REACT.md)
   - Web3
 - Frameworks
   - Truffle
@@ -85,7 +85,9 @@ You need to learn blockchain step by step as it's comes to real world. So first 
 - Metaverse
 
 ## Guides
-- [Solidity](docs/SOLIDITY.md)
+- [Javascript](guides/JAVASCRIPT.md)
+- [Solidity](guides/SOLIDITY.md)
+- [React](guides/REACT.md)
 
 ## Author
 Mubashir Rasool Razvi (<rizimore@outlook.com>)
