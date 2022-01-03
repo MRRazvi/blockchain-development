@@ -28,8 +28,8 @@ As name suggested its roadmap, so I will just tell you which topics you need to 
   - Node
   - [Solidity](guides/SOLIDITY.md)
 - Libraries
+  - [Web3](guides/WEB3.md)
   - [React](guides/REACT.md)
-  - Web3
 - Frameworks
   - HardHat
 - Testing
@@ -80,7 +80,7 @@ You need to learn blockchain step by step as it's comes to real world. So first 
   - WETH
 - Dapp
   - Solidity
-  - Web3
+  - [Web3](guides/WEB3.md)
   - React
 - ENS
 - DeFi
@@ -91,8 +91,8 @@ You need to learn blockchain step by step as it's comes to real world. So first 
 ## Guides
 - [Javascript](guides/JAVASCRIPT.md)
 - [Solidity](guides/SOLIDITY.md)
-- [React](guides/REACT.md)
 - [Web3](guides/WEB3.md)
+- [React](guides/REACT.md)
 
 ## Author
 Mubashir Rasool Razvi (<rizimore@outlook.com>)
