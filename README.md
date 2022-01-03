@@ -54,14 +54,11 @@ You need to learn blockchain step by step as it's comes to real world. So first 
   - AI
 
 ## Curriculum
-- Basics
-  - Digital Signatures
-  - Hashing
-  - Consensus Algorithm
 - Blockchain
   - Transaction
-  - Block
   - Distributed Ledger
+  - Public Key, Digital Signature
+  - Block, Nonce, Hash Code
 - Bitcoin
   - Protocol
   - Hash Rate
