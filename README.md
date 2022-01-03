@@ -1,7 +1,7 @@
 # Blockchain Roadmap
 This is little contribution to world so others can easily learn blockchain.
 
-Blockchain is future of development, it provides downtime free, censorship free, fraud free system so you can easily build any application where trust is one of the big issue.
+Blockchain is future of development, it provides downtime free, censorship free, fraud free system, so you can easily build any application where trust is one of the big issue.
 
 **Pros**  
 - Revolutionary technology
@@ -72,7 +72,7 @@ These are the technologies you will learn during this whole journey. For further
   - Slither
   - Echidna
 
-## Generations
+## Blockchain Generations
 You need to learn blockchain step by step as it's comes to real world. So first learn generation 01 blockchain then 02 and so on.
 
 - Generation 01
@@ -113,9 +113,6 @@ You need to learn blockchain step by step as it's comes to real world. So first 
   - Velocity of Token
   - WETH
 - Dapp
-  - Solidity
-  - [Web3](guides/WEB3.md)
-  - React
 - ENS
 - DeFi
 - NFT
