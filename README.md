@@ -58,11 +58,10 @@ You need to learn blockchain step by step as it's comes to real world. So first 
   - Digital Signatures
   - Hashing
   - Consensus Algorithm
-  - Distributed Ledger
 - Blockchain
   - Transaction
   - Block
-  - Ledger
+  - Distributed Ledger
 - Bitcoin
   - Protocol
   - Hash Rate
@@ -73,12 +72,16 @@ You need to learn blockchain step by step as it's comes to real world. So first 
   - Tokens
   - Smart Contracts
   - ERC (20, 721, ...)
+  - Minting
   - ABI
   - VM
   - Gas Fee
   - Velocity of Token
   - WETH
 - Dapp
+  - Solidity
+  - Web3
+  - React
 - ENS
 - DeFi
 - NFT
@@ -89,6 +92,7 @@ You need to learn blockchain step by step as it's comes to real world. So first 
 - [Javascript](guides/JAVASCRIPT.md)
 - [Solidity](guides/SOLIDITY.md)
 - [React](guides/REACT.md)
+- [Web3](guides/WEB3.md)
 
 ## Author
 Mubashir Rasool Razvi (<rizimore@outlook.com>)
