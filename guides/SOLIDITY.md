@@ -118,3 +118,23 @@ function sum(uint a, uint b) public pure returns (uint memory) {
   reutrns a + b;
 }
 ```
+
+#### Cryptographic Functions
+- Keccak256 (SHA3)
+
+```solidity
+keccka256(abi.encodePacked("Hello, World!"));
+```
+
+### Events
+events are used to notify other contracts about the state changes.
+
+```solidity
+event UserCreated(string _name, uint _age);
+emit(UserCreated("Rizi More", 22));
+
+// somewhere in dapp
+CONTRACT.UserCreated(function (error, result) {
+  ...
+});
+```
