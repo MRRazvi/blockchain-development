@@ -3,9 +3,32 @@ This is little contribution to world so others can easily learn blockchain.
 
 Blockchain is future of development, it provides downtime free, censorship free, fraud free system so you can easily build any application where trust is one of the big issue.
 
-***How you can take this guide more efficiently?***
+**Pros**  
+- Revolutionary technology
+- Distributed system
+- Learning
+  - Cryptography
+  - Security
+  - Economics
+  - Finance
+  - Game Theory
+- High Demand
+- Remote Opportunities
+- High Salary
+- High Performance
+- Low Cost
+- Low Risk
+- Low Maintenance
 
-As name suggested its roadmap, so I will just tell you which topics you need to know in which order. So just search that topic on internet and learn those.
+**Cons**
+- High Responsibility
+- Industry Trend
+
+===
+
+**_How you can take this guide more efficiently?_**
+
+As name suggested its roadmap, so I will just tell you which topics you need to know in which order. So just search that topic on internet and learn those._
 
 ## Prerequisites
 - Frontend
