@@ -30,7 +30,7 @@ Blockchain is future of development, it provides downtime free, censorship free,
 
 **_How you can take this guide more efficiently?_**
 
-As name suggested its roadmap, so I will just tell you which topics you need to know in which order. So just search that topic on internet and learn those._
+As name suggested its roadmap, so I will just tell you which topics you need to know in which order. So just search that topic on internet and learn those.
 
 ## Prerequisites
 - Frontend
