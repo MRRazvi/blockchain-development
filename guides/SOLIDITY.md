@@ -13,7 +13,7 @@ Solidity is contract-base, high level programming language to develop smart cont
   - String
     - Escaped Characters
   - Byte / Bytes
-  - Array
+  - Arrays
   - Struct
   - Enum
   - Address
@@ -69,3 +69,30 @@ Solidity is contract-base, high level programming language to develop smart cont
 - Miscellaneous
   - Best Practices
   - Reserve Keywords
+
+
+### Data Type
+
+#### Arrays
+Array is way to store multiple values in one variable. It can be any data type.
+
+```solidity
+uint[2] a = [1, 2]; // integer array
+string[2] b = ["Hello", "World"]; // string array
+uint[2][2] c = [[1, 2], [3, 4]]; // multidimensional array
+uint[] d = [1, 2, 3]; // dynamic array
+User[] user = [User(1), User(2)]; // User struct array
+```
+
+### Functions
+Function is block of code to perform specific task. It can be called by other functions or by other contracts.
+
+```solidity
+function createUser(string memory _name, uint _age) public {
+
+}
+
+createUser("Rizi More", 22);
+```
+
+So here `createUser` is name of function, `_name` and `__age` are parameters of function. `public` is function visibility. `_name` is passed by reference with the help of `memory` keyword and `_age` pass by value.
