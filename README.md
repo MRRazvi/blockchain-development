@@ -55,6 +55,7 @@ You need to learn blockchain step by step as it's comes to real world. So first 
 
 ## Curriculum
 - Blockchain
+  - History
   - Transaction
   - Distributed Ledger
   - Public Key, Digital Signature
