@@ -88,6 +88,21 @@ uint[] d = [1, 2, 3]; // dynamic array
 User[] user = [User(1), User(2)]; // User struct array
 ```
 
+#### Mapping
+Mapping is like array but with key-value pair.
+
+```solidity
+mapping(uint => string) a = {1: "Rizi", 2: "More"}; // mapping
+```
+
+### Variables
+#### Global Variables
+Global variables are variables that are accessible from all functions.
+
+```solidity
+msg.sender // address of person whos calling the function
+```
+
 ### Functions
 Function is block of code to perform specific task. It can be called by other functions or by other contracts.
 
