@@ -45,7 +45,11 @@ Solidity is contract-base, high level programming language to develop smart cont
   - If Else
   - If Else If
 - Functions
+  - Function Parameters
+    - Pass by Value
+    - Pass by Reference
   - Function Modifiers
+  - Function Return
   - Function Calling
     - Internal Function Calls
     - External Function Calls
@@ -96,3 +100,21 @@ createUser("Rizi More", 22);
 ```
 
 So here `createUser` is name of function, `_name` and `__age` are parameters of function. `public` is function visibility. `_name` is passed by reference with the help of `memory` keyword and `_age` pass by value.
+
+#### View Functions
+are those functions which are not modifying just reading data.
+
+```solidity
+function getUser(string memory _name) public view returns (User memory) {
+
+}
+```
+
+#### Pure Functions
+are those functions which neither modify nor reading data.
+
+```solidity
+function sum(uint a, uint b) public pure returns (uint memory) {
+  reutrns a + b;
+}
+```
