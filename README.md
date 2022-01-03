@@ -23,6 +23,8 @@ Blockchain is future of development, it provides downtime free, censorship free,
 **Cons**
 - High Responsibility
 - Industry Trend
+- Learning Curve
+- No Space for Juniors
 
 ===
 
@@ -46,6 +48,14 @@ As name suggested its roadmap, so I will just tell you which topics you need to 
   - Basic Cryptography
 
 ## Technologies
+These are the technologies you will learn during this whole journey. For further and depth information you can refer curriculum.
+
+- Concepts
+  - Cryptography
+  - Blockchain
+  - Smart Contracts (ERC20, ERC721, ERC1155)
+  - Dapps
+  - Security
 - Programming Language
   - [JavaScript](guides/JAVASCRIPT.md)
   - Node
@@ -53,11 +63,14 @@ As name suggested its roadmap, so I will just tell you which topics you need to 
 - Libraries
   - [Web3](guides/WEB3.md)
   - [React](guides/REACT.md)
-- Frameworks
   - HardHat
+  - Open Zeppelin Contracts
 - Testing
   - Jest
-  - Testnet
+  - Main Net
+  - Test Net (Ganache)
+  - Slither
+  - Echidna
 
 ## Generations
 You need to learn blockchain step by step as it's comes to real world. So first learn generation 01 blockchain then 02 and so on.
