@@ -31,10 +31,9 @@ As name suggested its roadmap, so I will just tell you which topics you need to 
   - [React](guides/REACT.md)
   - Web3
 - Frameworks
-  - Truffle
+  - HardHat
 - Testing
   - Jest
-  - Ganache
   - Testnet
 
 ## Generations
@@ -58,6 +57,8 @@ You need to learn blockchain step by step as it's comes to real world. So first 
 - Basics
   - Digital Signatures
   - Hashing
+  - Consensus Algorithm
+  - Distributed Ledger
 - Blockchain
   - Transaction
   - Block

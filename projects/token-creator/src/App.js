@@ -1,10 +1,11 @@
 import React from 'react';
-import { Button } from '@mui/material';
+
+import THButton from './components/THButton';
 
 function App() {
   return (
     <>
-      <Button>Hello, World!</Button>
+      <THButton>Good Bye!</THButton>
     </>
   );
 }
