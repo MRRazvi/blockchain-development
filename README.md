@@ -92,5 +92,17 @@ You need to learn blockchain step by step as it's comes to real world. So first 
 - [Web3](guides/WEB3.md)
 - [React](guides/REACT.md)
 
+### Smart Contract Developer
+- Smart Contract
+  - Writing Contracts
+  - Security Audit
+  - Design Protocols
+- Frontend
+  - UI
+- Backend
+  - Bots
+  - Monitors / Alerts
+  - Data Aggregation
+
 ## Author
 Mubashir Rasool Razvi (<rizimore@outlook.com>)
