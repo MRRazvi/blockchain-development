@@ -1,11 +1,12 @@
 import React from 'react';
-
-import THButton from './components/THButton';
+import Home from './components/pages/Home';
+import { CssBaseline } from '@mui/material';
 
 function App() {
   return (
     <>
-      <THButton>Good Bye!</THButton>
+      <CssBaseline />
+      <Home />
     </>
   );
 }
