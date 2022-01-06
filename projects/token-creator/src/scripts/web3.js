@@ -4,6 +4,7 @@ class Web3 {
   constructor(provider) {
     if (provider) this.provider = new ethers.providers.Web3Provider(provider);
     this.provider = new ethers.providers.Web3Provider(window.ethereum);
+    this.signer = this.provider.getSigner();
   }
 
   getAccounts = async () => {
@@ -29,6 +30,10 @@ class Web3 {
 
   convertToEther = (amount) => {
     return ethers.utils.formatEther(amount);
+  };
+
+  connect = async () => {
+    await this.signer.connect();
   };
 }
 
