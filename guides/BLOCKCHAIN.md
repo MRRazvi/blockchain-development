@@ -1,12 +1,24 @@
 # Blockchain
 This guide to aim to be a complete reference to understand blockchain on core level and how to build your own.
 
+## Prerequisites
+- Cryptography
+  - Encryption
+  - Decryption
+  - Signing
+  - Verification
+  - Types
+    - Symmetric
+    - Asymmetric
+    - Hash
+
 ## Curriculum
 - Data
 - Hash
   - Previous Hash
   - **Merkle Tree Algorithm**
 - Address
+  - Address Formats, Types, and Examples
 - Transaction
   - Transaction Creation, Signing, Verification
 - Block
@@ -24,32 +36,28 @@ This guide to aim to be a complete reference to understand blockchain on core le
   - Permission Less Network (P2P)
 - Nodes
 - Mining
-  - Mining Pool
-  - Mining Reward
-  - Mining Reward Distribution
+  - **Mining Pool**
+  - **Mining Reward**
 - Blockchain Types
   - Public
-  - Private
-  - Hybrid
-- Assets
+  - **Private**
+  - **Hybrid**
+- Assets (Cryptocurrency)
+  - Issuing Assets
+  - Transferring Assets
 - Wallet
   - Key Formats
     - Keystore
-    - Mnemonic Phrase
-    - Private Key
-  - Key Management
-    - Encryption
-    - Decryption
-    - Signing
-    - Verification
-- APIs
+    - **Mnemonic Phrase**
+    - **Private Key**
+- **APIs**
 - Advanced
   - DApp
   - Smart Contracts
   - DeFi
   - NFT
-  - DAOs
-  - Multi Sign
-  - Loans
+  - **DAOs**
+  - **Multi Sign**
+  - **Loans**
   - Storage
-  - Exchange
+  - **Exchange**
