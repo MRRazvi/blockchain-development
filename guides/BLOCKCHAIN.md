@@ -2,10 +2,15 @@
 This guide to aim to be a complete reference to understand blockchain on core level and how to build your own.
 
 ## Before You Begin
+- What, Why, How?
 - What is blockchain?
+- Why are you learning blockchain?
+- How I can become a blockchain developer?
+- What benefits blockchain has?
 - Difference between blockchain and web 3.0?
 - Bitcoin is not a blockchain?
-- Why are you learning blockchain?
+- Is it scam?
+- Difference between blockchain and cryptocurrency?
 
 ## Prerequisites
 - Cryptography
@@ -41,6 +46,7 @@ This guide to aim to be a complete reference to understand blockchain on core le
   - Transaction Creation, Signing, Verification
 - Block
   - Block Creation, Mining, Verification
+  - Block Header, Body
   - Genesis Block
 - Chain of Blocks
 - Ledger
