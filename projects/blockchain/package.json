@@ -4,8 +4,9 @@
   "description": "Blockchain implementation in JavaScript",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon src/index.js"
   },
+  "type": "module",
   "keywords": [
     "blockchain",
     "javascript",
