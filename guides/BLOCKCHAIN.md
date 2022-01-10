@@ -1,6 +1,12 @@
 # Blockchain
 This guide to aim to be a complete reference to understand blockchain on core level and how to build your own.
 
+## Before You Begin
+- What is blockchain?
+- Difference between blockchain and web 3.0?
+- Bitcoin is not a blockchain?
+- Why are you learning blockchain?
+
 ## Prerequisites
 - Cryptography
   - Encryption
@@ -11,6 +17,18 @@ This guide to aim to be a complete reference to understand blockchain on core le
     - Symmetric
     - Asymmetric
     - Hash
+- Programming Language (JavaScript, Python, Go, Rust, etc.)
+
+## Overview
+- Transaction
+- Wallet
+- Signature
+- Mempool
+- Network
+- Consensus
+- Hashing
+- Block
+- Blockchain
 
 ## Curriculum
 - Data
@@ -38,6 +56,10 @@ This guide to aim to be a complete reference to understand blockchain on core le
 - Mining
   - **Mining Pool**
   - **Mining Reward**
+- Fees
+  - **Transaction Fees**
+  - **Block Fees**
+  - **Mining Fees**
 - Blockchain Types
   - Public
   - **Private**
