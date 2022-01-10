@@ -3,9 +3,9 @@ This guide to aim to be a complete reference to understand blockchain on core le
 
 ## Before You Begin
 - What, Why, How?
-- What is blockchain?
-- Why are you learning blockchain?
-- How I can become a blockchain developer?
+  - What is blockchain?
+  - Why are you even learning blockchain?
+  - How I can become a blockchain developer?
 - What benefits blockchain has?
 - Difference between blockchain and web 3.0?
 - Bitcoin is not a blockchain?

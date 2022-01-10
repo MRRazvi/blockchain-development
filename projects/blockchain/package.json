@@ -1,0 +1,22 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain implementation in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "blockchain",
+    "javascript",
+    "wallet",
+    "cryptography",
+    "apis",
+    "ledger"
+  ],
+  "author": {
+    "name": "Mubashir Rasool Razvi",
+    "email": "rizimore@outlook.com"
+  },
+  "license": "ISC"
+}
