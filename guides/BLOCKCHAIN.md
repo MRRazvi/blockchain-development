@@ -46,14 +46,21 @@ This guide to aim to be a complete reference to understand blockchain on core le
     - **Patricia Tree**
     - **Radix Tree**
 - Hash
-- Address
-  - Address Formats, Types, and Examples
+- Account
+  - Creating Account
+  - Address
+    - Address Formats
+    - Types
+  - Balance
+  - Alias
 - Transaction
   - Transaction Creation, Signing, Verification
 - Block
-  - Block Creation, Mining, Verification
-  - Block Header, Body
-  - Previous Hash
+  - Block Generation
+  - Block Height
+  - Block Signature
+  - Block Hash
+    - Previous Hash
   - Genesis Block
 - Chain of Blocks
 - Ledger
@@ -62,10 +69,19 @@ This guide to aim to be a complete reference to understand blockchain on core le
   - Proof of Stake (PoS)
   - **Proof of Authority (PoA)**
 - Network
-  - Network Creation, Configuration and Connection
-  - Permission Network
-  - Permission Less Network (P2P)
+  - Network Creation
+  - Network Configuration
+  - Network Connection
+  - Permissions
+    - Permission Network
+    - Permission Less Network (P2P)
+  - Environments
+    - Mainnet
+    - Testnet
 - Nodes
+  - Generating Node
+  - Validating Node
+  - Run a Node
 - Mining
   - **Mining Pool**
   - **Mining Reward**
@@ -77,22 +93,24 @@ This guide to aim to be a complete reference to understand blockchain on core le
   - Public
   - **Private**
   - **Hybrid**
-- Assets (Cryptocurrency)
-  - Issuing Assets
-  - Transferring Assets
+- Assets
+- Smart Contracts
+  - Oracle
 - Wallet
-  - Key Formats
+  - Authentication
     - Keystore
     - **Mnemonic Phrase**
     - **Private Key**
 - **APIs**
-- Advanced
+- Security
+- Others
   - DApp
-  - Smart Contracts
+    - Smart Contracts
+    - Web3
   - DeFi
-  - NFT
-  - **DAOs**
-  - **Multi Sign**
-  - **Loans**
-  - Storage
-  - **Exchange**
+    - NFT
+    - Stable Coins
+    - Farming
+    - Lending
+  - GameFi
+  - Metaverse
