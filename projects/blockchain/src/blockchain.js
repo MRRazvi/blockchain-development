@@ -4,7 +4,8 @@ class Blockchain {
     this.pendingTransactions = [];
   }
 
-  createBlock(nonce, previousBlockHash, hash) {
+  // set new block
+  setBlock(nonce, previousBlockHash, hash) {
     const block = {
       index: this.chain.length + 1,
       timestamp: Date.now(),
@@ -17,5 +18,24 @@ class Blockchain {
     this.pendingTransactions = [];
     this.chain.push(block);
     return block;
+  }
+
+  // get latest/last block
+  getBlock(index = this.chain.length - 1) {
+    return this.chain[index];
+  }
+
+  // create new pending transaction
+  setTransaction(amount, sender, recipient) {
+    const transaction = {
+      value: amount,
+      from: sender,
+      to: recipient,
+      block: this.getBlock()["index"] + 1,
+      timestamp: Date.now(),
+    };
+
+    this.pendingTransactions.push(transaction);
+    return transaction;
   }
 }
