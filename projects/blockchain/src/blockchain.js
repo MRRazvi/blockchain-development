@@ -1,3 +1,5 @@
+import sha256 from "crypto-js/sha256";
+
 class Blockchain {
   constructor() {
     this.chain = [];
@@ -38,4 +40,11 @@ class Blockchain {
     this.pendingTransactions.push(transaction);
     return transaction;
   }
+
+  // hash the whole block data
+  hashBlock(previousHash, data, nonce) {
+    return sha256(data + nonce.toString() + JSON.stringify(previousHash));
+  }
 }
+
+export default Blockchain;

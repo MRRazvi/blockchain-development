@@ -19,5 +19,8 @@
     "name": "Mubashir Rasool Razvi",
     "email": "rizimore@outlook.com"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
 }
