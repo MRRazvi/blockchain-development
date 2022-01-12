@@ -37,9 +37,15 @@ This guide to aim to be a complete reference to understand blockchain on core le
 
 ## Curriculum
 - Data
+  - Data Types
+  - Data Serialization
+  - Data Structures
+    - **Merkle Tree Algorithm (for storing data)**
+    - **Bloom Filter (for checking)**
+    - **Distributed Hash Table**
+    - **Patricia Tree**
+    - **Radix Tree**
 - Hash
-  - Previous Hash
-  - **Merkle Tree Algorithm**
 - Address
   - Address Formats, Types, and Examples
 - Transaction
@@ -47,6 +53,7 @@ This guide to aim to be a complete reference to understand blockchain on core le
 - Block
   - Block Creation, Mining, Verification
   - Block Header, Body
+  - Previous Hash
   - Genesis Block
 - Chain of Blocks
 - Ledger

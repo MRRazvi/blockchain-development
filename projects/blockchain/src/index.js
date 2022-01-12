@@ -3,14 +3,10 @@ import Blockchain from "./blockchain.js";
 
 const bitcoin = new Blockchain();
 
-bitcoin.setBlock(1, randHash(), randHash());
-bitcoin.setTransaction(100, "address1", "address2");
-bitcoin.setBlock(2, randHash(), randHash());
-
-bitcoin.hashBlock(randHash(), {}, 3);
-
-console.log(bitcoin);
-
-function randHash() {
-  return sha256(Math.random().toString());
-}
+const nonce = bitcoin.proofOfWork(
+  sha256("prev"),
+  JSON.stringify({
+    hi: "bye111111112222211111111111111121111211111111111111111",
+  })
+);
+console.log(nonce);
