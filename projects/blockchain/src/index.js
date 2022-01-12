@@ -7,6 +7,8 @@ bitcoin.setBlock(1, randHash(), randHash());
 bitcoin.setTransaction(100, "address1", "address2");
 bitcoin.setBlock(2, randHash(), randHash());
 
+bitcoin.hashBlock(randHash(), {}, 3);
+
 console.log(bitcoin);
 
 function randHash() {

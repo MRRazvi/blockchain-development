@@ -45,6 +45,16 @@ class Blockchain {
   hashBlock(previousHash, data, nonce) {
     return sha256(data + nonce.toString() + JSON.stringify(previousHash));
   }
+
+  proofOfWork(previousHash, data) {
+    let nonce = 0;
+    let hash = this.hashBlock(previousHash, data, nonce);
+    while (hash.substring(0, 4) !== "0000") {
+      nonce++;
+      hash = this.hashBlock(previousHash, data, nonce);
+    }
+    return nonce;
+  }
 }
 
 export default Blockchain;
