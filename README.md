@@ -85,11 +85,20 @@ These are the technologies you will learn during this whole journey.
 These are guides which you can refer during the course to learn more about blockchain development and its related technologies.
 
 - [BlockChain](guides/BLOCKCHAIN.md)
-- [Javascript](guides/JAVASCRIPT.md)
 - [Solidity](guides/SOLIDITY.md)
 - [HardHat](guides/HARDHAT.md)
 - [Web3](guides/WEB3.md)
+- [JavaScript](guides/JAVASCRIPT.md)
 - [React](guides/REACT.md)
+
+---
+
+### Projects:
+We will try to cover at least 3 full fledged projects in this course.
+
+- [Project 01](projects/project-01/README.md)
+- [Project 02](projects/project-01/README.md)
+- [Project 03](projects/project-01/README.md)
 
 ---
 
