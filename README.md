@@ -1,5 +1,5 @@
 # Blockchain Development
-A free course on blockchain development where we will cover:
+A complimentary course on blockchain development where we will cover:
 
 - Understanding of Web3, Blockchain, Cryptocurrencies, Smart Contract, DeFi, GameFi, Metaverse
 - Custom Blockchain Development
