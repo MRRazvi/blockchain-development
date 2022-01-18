@@ -3,7 +3,7 @@ This guide to aim to be a complete reference to understand blockchain on core le
 
 ---
 
-## Before You Begin
+### Before You Begin:
 - What, Why, How?
   - What is blockchain?
   - Why are you even learning blockchain?
@@ -16,7 +16,7 @@ This guide to aim to be a complete reference to understand blockchain on core le
 
 ---
 
-## Prerequisites
+### Prerequisites:
 - Cryptography
   - Encryption
   - Decryption
@@ -30,7 +30,26 @@ This guide to aim to be a complete reference to understand blockchain on core le
 
 ---
 
-## Curriculum
+### Blockchain Generations:
+You need to learn blockchain step by step as it's comes to real world. So first learn generation 01 blockchain then 02 and so on.
+
+- Generation 01
+  - Simple Ledger
+  - Digital Currencies
+- Generation 02
+  - Smart Contracts
+- Generation 03
+  - Scaling
+  - Bottleneck
+  - Cloud Node
+  - Open Chain Access
+  - Incentive for Self Evolution
+- Generation 04
+  - AI
+
+---
+
+### Curriculum:
 - Blockchain Generations
 - Data
   - Data Types
@@ -110,22 +129,4 @@ This guide to aim to be a complete reference to understand blockchain on core le
     - Lending
   - GameFi
   - Metaverse
-
----
-
-### Blockchain Generations
-You need to learn blockchain step by step as it's comes to real world. So first learn generation 01 blockchain then 02 and so on.
-
-- Generation 01
-  - Simple Ledger
-  - Digital Currencies
-- Generation 02
-  - Smart Contracts
-- Generation 03
-  - Scaling
-  - Bottleneck
-  - Cloud Node
-  - Open Chain Access
-  - Incentive for Self Evolution
-- Generation 04
-  - AI
+  
