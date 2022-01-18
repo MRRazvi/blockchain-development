@@ -13,6 +13,7 @@ This guide to aim to be a complete reference to understand blockchain on core le
 - Bitcoin is not a blockchain?
 - Is it scam?
 - Difference between blockchain and cryptocurrency?
+- What is Bitcoin monetary policy?
 
 ---
 
@@ -129,4 +130,3 @@ You need to learn blockchain step by step as it's comes to real world. So first 
     - Lending
   - GameFi
   - Metaverse
-  
