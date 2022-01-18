@@ -1,0 +1,5 @@
+- finding spell, grammer mistake in content
+- organizing the stuff in much better way
+- you can contribute as creating extra lesson
+- you can create guide on some library, framework, module
+- you can contribtue creating short project
