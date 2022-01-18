@@ -8,7 +8,7 @@ A free course on blockchain development where we will cover:
 
 ---
 
-## Lessons
+### Lessons
 - [ ] **Section 01 (Understanding, BASICS)**
   - [ ] [Lesson 01](lessons/LESSON-01.md)
   - [ ] [Lesson 02](lessons/LESSON-02.md)
