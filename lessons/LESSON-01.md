@@ -1,1 +1,1 @@
-The lecture content will update on the day of the lecture conducted.
+The lesson content will update on the day of the lesson conduct.
