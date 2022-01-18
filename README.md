@@ -104,7 +104,7 @@ We will try to cover at least 3 full-fledged projects in this course.
 
 ### Conclusion:
 
-This course will be more than enough for you to make basic to intermediate blockchain developers or in general to understand the blockchain technologies.
+This course will be more than enough for you to make basic to intermediate blockchain developer or in general to understand the blockchain technologies.
 
 ---
 
