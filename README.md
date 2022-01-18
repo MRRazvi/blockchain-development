@@ -8,6 +8,42 @@ A complimentary course on blockchain development where we will cover:
 
 ---
 
+### Technologies:
+These are the technologies you will learn during this whole journey.
+
+- Modules
+  - Web 3.0
+  - [BlockChain](guides/BLOCKCHAIN.md)
+    - BitCoin
+    - Ethereum
+  - Smart Contracts (ERC20, ERC721, ERC1155)
+  - DApps
+    - DeFi
+    - NFT
+    - Stable Coins
+    - Farming
+    - Lending
+  - GameFi
+  - Metaverse
+  - Security
+- Programming Language
+  - [JavaScript](guides/JAVASCRIPT.md)
+  - Node
+  - [Solidity](guides/SOLIDITY.md)
+- Libraries / Frameworks
+  - [Web3](guides/WEB3.md)
+  - [React](guides/REACT.md)
+  - [HardHat](guides/HARDHAT.md)
+  - Open Zeppelin Contracts
+- Testing
+  - Jest
+  - Main Net
+  - Test Net (Ganache)
+  - Slither
+  - Echidna
+
+---
+
 ### Lessons:
 - [ ] **Section 01 (Understanding, BASICS)**
   - [ ] [Lesson 01](lessons/LESSON-01.md)
@@ -42,42 +78,6 @@ A complimentary course on blockchain development where we will cover:
   - [ ] [Lesson 28](lessons/LESSON-28.md)
   - [ ] [Lesson 29](lessons/LESSON-29.md)
   - [ ] [Lesson 30](lessons/LESSON-30.md)
-
----
-
-### Technologies:
-These are the technologies you will learn during this whole journey.
-
-- Modules
-  - Web 3.0
-  - [BlockChain](guides/BLOCKCHAIN.md)
-    - BitCoin
-    - Ethereum
-  - Smart Contracts (ERC20, ERC721, ERC1155)
-  - DApps
-    - DeFi
-    - NFT
-    - Stable Coins
-    - Farming
-    - Lending
-  - GameFi
-  - Metaverse
-  - Security
-- Programming Language
-  - [JavaScript](guides/JAVASCRIPT.md)
-  - Node
-  - [Solidity](guides/SOLIDITY.md)
-- Libraries / Frameworks
-  - [Web3](guides/WEB3.md)
-  - [React](guides/REACT.md)
-  - [HardHat](guides/HARDHAT.md)
-  - Open Zeppelin Contracts
-- Testing
-  - Jest
-  - Main Net
-  - Test Net (Ganache)
-  - Slither
-  - Echidna
 
 ---
 
