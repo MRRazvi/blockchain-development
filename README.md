@@ -6,6 +6,8 @@ A free course on blockchain development where we will cover:
 - Custom Smart Contract Development
 - Building DApps like Tokens, NFT, Lending, Farming, etc.
 
+---
+
 ## Lessons
 - [ ] **Section 01 (Understanding, BASICS)**
   - [ ] [Lesson 01](lessons/LESSON-01.md)
@@ -41,6 +43,8 @@ A free course on blockchain development where we will cover:
   - [ ] [Lesson 29](lessons/LESSON-29.md)
   - [ ] [Lesson 30](lessons/LESSON-30.md)
 
+---
+
 ## Technologies
 These are the technologies you will learn during this whole journey.
 
@@ -75,6 +79,8 @@ These are the technologies you will learn during this whole journey.
   - Slither
   - Echidna
 
+---
+
 ## Guides
 These are guides which you can refer during the course to learn more about blockchain development and its related technologies.
 
@@ -84,6 +90,8 @@ These are guides which you can refer during the course to learn more about block
 - [HardHat](guides/HARDHAT.md)
 - [Web3](guides/WEB3.md)
 - [React](guides/REACT.md)
+
+---
 
 ## Author
 Mubashir Rasool Razvi (<rizimore@outlook.com>)
