@@ -13,7 +13,6 @@ This guide to aim to be a complete reference to understand blockchain on core le
 - Bitcoin is not a blockchain?
 - Is it scam?
 - Difference between blockchain and cryptocurrency?
-- What is Bitcoin monetary policy?
 
 ---
 
