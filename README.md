@@ -1,4 +1,4 @@
-# Blockchain Development
+# BlockChain Development
 A complimentary course on blockchain development where we will cover:
 
 - Understanding of Web3, Blockchain, Cryptocurrencies, Smart Contract, DeFi, GameFi, Metaverse
@@ -94,11 +94,11 @@ These are guides which you can refer during the course to learn more about block
 ---
 
 ### Projects:
-We will try to cover at least 3 full fledged projects in this course.
+We will try to cover at least 3 full-fledged projects in this course.
 
-- [Project 01](projects/project-01/README.md)
-- [Project 02](projects/project-01/README.md)
-- [Project 03](projects/project-01/README.md)
+- [Project 01 - Build Custom Private BlockChain](projects/project-01/README.md)
+- [Project 02 - Build Custom Smart Contract (Autonomous, Oracles, Deployments, etc.)](projects/project-01/README.md)
+- [Project 03 - Build NFT Marketplace](projects/project-01/README.md)
 
 ---
 
