@@ -8,7 +8,7 @@ A free course on blockchain development where we will cover:
 
 ---
 
-### Lessons
+### Lessons:
 - [ ] **Section 01 (Understanding, BASICS)**
   - [ ] [Lesson 01](lessons/LESSON-01.md)
   - [ ] [Lesson 02](lessons/LESSON-02.md)
@@ -45,7 +45,7 @@ A free course on blockchain development where we will cover:
 
 ---
 
-## Technologies
+### Technologies:
 These are the technologies you will learn during this whole journey.
 
 - Modules
@@ -81,7 +81,7 @@ These are the technologies you will learn during this whole journey.
 
 ---
 
-## Guides
+### Guides:
 These are guides which you can refer during the course to learn more about blockchain development and its related technologies.
 
 - [BlockChain](guides/BLOCKCHAIN.md)
@@ -93,5 +93,5 @@ These are guides which you can refer during the course to learn more about block
 
 ---
 
-## Author
+### Author:
 Mubashir Rasool Razvi (<rizimore@outlook.com>)
