@@ -25,7 +25,7 @@ These are the technologies you will learn during this whole journey.
     - Lending
   - GameFi
   - Metaverse
-  - Security
+  - Security (Blockchain, Smart Contract, Case Studies, etc.)
 - Programming Language
   - [JavaScript](guides/JAVASCRIPT.md)
   - Node
