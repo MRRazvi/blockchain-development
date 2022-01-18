@@ -102,5 +102,17 @@ We will try to cover at least 3 full-fledged projects in this course.
 
 ---
 
+### Conclusion:
+
+This course will be more than enough for you to make basic to intermediate blockchain developers or in general to understand the blockchain technologies.
+
+---
+
+### Contribution:
+
+Anyone can contribute to this course. For contribution please reach me out on email.
+
+---
+
 ### Author:
 Mubashir Rasool Razvi (<rizimore@outlook.com>)
