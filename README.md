@@ -12,10 +12,9 @@ A complimentary course on blockchain development where we will cover:
 These are the technologies you will learn during this whole journey.
 
 - Modules
-  - Web 3.0
   - [BlockChain](guides/BLOCKCHAIN.md)
-    - BitCoin
-    - Ethereum
+    - BitCoin, Ethereum
+    - Web 3.0
   - Smart Contracts (ERC20, ERC721, ERC1155)
   - DApps
     - DeFi
