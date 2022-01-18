@@ -1,6 +1,8 @@
 # Blockchain
 This guide to aim to be a complete reference to understand blockchain on core level and how to build your own.
 
+---
+
 ## Before You Begin
 - What, Why, How?
   - What is blockchain?
@@ -11,6 +13,8 @@ This guide to aim to be a complete reference to understand blockchain on core le
 - Bitcoin is not a blockchain?
 - Is it scam?
 - Difference between blockchain and cryptocurrency?
+
+---
 
 ## Prerequisites
 - Cryptography
@@ -24,18 +28,10 @@ This guide to aim to be a complete reference to understand blockchain on core le
     - Hash
 - Programming Language (JavaScript, Python, Go, Rust, etc.)
 
-## Overview
-- Transaction
-- Wallet
-- Signature
-- Mempool
-- Network
-- Consensus
-- Hashing
-- Block
-- Blockchain
+---
 
 ## Curriculum
+- Blockchain Generations
 - Data
   - Data Types
   - Data Serialization
@@ -114,3 +110,22 @@ This guide to aim to be a complete reference to understand blockchain on core le
     - Lending
   - GameFi
   - Metaverse
+
+---
+
+### Blockchain Generations
+You need to learn blockchain step by step as it's comes to real world. So first learn generation 01 blockchain then 02 and so on.
+
+- Generation 01
+  - Simple Ledger
+  - Digital Currencies
+- Generation 02
+  - Smart Contracts
+- Generation 03
+  - Scaling
+  - Bottleneck
+  - Cloud Node
+  - Open Chain Access
+  - Incentive for Self Evolution
+- Generation 04
+  - AI
