@@ -78,19 +78,16 @@ You need to learn blockchain step by step as it's comes to real world. So first 
   - Block Hash
     - Previous Hash
   - Genesis Block
-- Chain of Blocks
+- Blockchain
 - Ledger
 - Consensus Algorithms
   - Proof of Work (PoW)
   - Proof of Stake (PoS)
   - **Proof of Authority (PoA)**
 - Network
-  - Network Creation
-  - Network Configuration
-  - Network Connection
-  - Permissions
-    - Permission Network
-    - Permission Less Network (P2P)
+  - Network Creation, Configuration, Connection
+  - Permission Network
+  - Permission Less Network (P2P)
   - Environments
     - Mainnet
     - Testnet
@@ -110,6 +107,8 @@ You need to learn blockchain step by step as it's comes to real world. So first 
   - **Private**
   - **Hybrid**
 - Assets
+  - Currency
+  - Token
 - Smart Contracts
   - Oracle
 - Wallet
@@ -119,7 +118,7 @@ You need to learn blockchain step by step as it's comes to real world. So first 
     - **Private Key**
 - **APIs**
 - Security
-- Others
+- Advanced
   - DApp
     - Smart Contracts
     - Web3
@@ -130,3 +129,13 @@ You need to learn blockchain step by step as it's comes to real world. So first 
     - Lending
   - GameFi
   - Metaverse
+- Others
+  - Forks
+  - Double Spending
+  - Block Explorer
+  - Consortium Blockchain
+  - Fungibility
+  - Halving
+  - Initial Coin Offering
+  - Lighting Network
+  - Mining Difficulty
