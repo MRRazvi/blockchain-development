@@ -1,10 +1,16 @@
 # BlockChain Development
-A complimentary course on blockchain development where we will cover:
+A complimentary course on understanding of blockchain, its application and development.
 
-- Understanding of Web3, Blockchain, Cryptocurrencies, Smart Contract, DeFi, GameFi, Metaverse
-- Custom Blockchain Development
-- Custom Smart Contract Development
-- Building DApps like Tokens, NFT, Lending, Farming, etc.
+---
+
+### Prerequisites:
+
+- Blockchain 101
+  - Technical Background (Computer, Internet)
+- Blockchain 201
+  - Technical Background (Computer, Internet)
+  - Programming Basics (JS, Java, Python, etc.)
+  - Web Basics (HTMl, CSS, JS)
 
 ---
 
@@ -70,8 +76,6 @@ These are the technologies you will learn during this whole journey if you proce
   - Open Zeppelin Contracts
 - Testing
   - Chai
-  - Slither
-  - Echidna
 
 ---
 
