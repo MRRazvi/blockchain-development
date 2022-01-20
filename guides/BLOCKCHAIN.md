@@ -5,9 +5,9 @@ This guide to aim to be a complete reference to understand blockchain on core le
 
 ### Before You Begin:
 - What, Why, How?
-  - What is blockchain?
-  - Why are you even learning blockchain?
-  - How I can become a blockchain developer?
+    - What is blockchain?
+    - Why are you even learning blockchain?
+    - How I can become a blockchain developer?
 - What benefits blockchain has?
 - Bitcoin Monetary Policy
 - Difference between blockchain and web 3.0?
@@ -19,14 +19,14 @@ This guide to aim to be a complete reference to understand blockchain on core le
 
 ### Prerequisites:
 - Cryptography
-  - Encryption
-  - Decryption
-  - Signing
-  - Verification
-  - Types
-    - Symmetric
-    - Asymmetric
-    - Hash
+    - Encryption
+    - Decryption
+    - Signing
+    - Verification
+    - Types
+        - Symmetric
+        - Asymmetric
+        - Hash
 - Programming Language (JavaScript, Python, Go, Rust, etc.)
 
 ---
@@ -35,107 +35,85 @@ This guide to aim to be a complete reference to understand blockchain on core le
 You need to learn blockchain step by step as it's comes to real world. So first learn generation 01 blockchain then 02 and so on.
 
 - Generation 01
-  - Simple Ledger
-  - Digital Currencies
+    - Simple Ledger
+    - Digital Currencies
 - Generation 02
-  - Smart Contracts
+    - Smart Contracts
 - Generation 03
-  - Scaling
-  - Bottleneck
-  - Cloud Node
-  - Open Chain Access
-  - Incentive for Self Evolution
+    - Scaling
+    - Bottleneck
+    - Cloud Node
+    - Open Chain Access
+    - Incentive for Self Evolution
 - Generation 04
-  - AI
+    - AI
 
 ---
 
 ### Curriculum:
-- Blockchain Generations
 - Data
-  - Data Types
-  - Data Serialization
-  - Data Structures
-    - **Merkle Tree Algorithm (for storing data)**
-    - **Bloom Filter (for checking)**
-    - **Distributed Hash Table**
-    - **Patricia Tree**
-    - **Radix Tree**
+    - Data Types
+    - Data Serialization
+    - Data Structures
+        - **Merkle Tree Algorithm (for storing data)**
+        - **Bloom Filter (for checking)**
+        - **Distributed Hash Table**
+        - **Patricia Tree**
+        - **Radix Tree**
 - Hash
 - Account
-  - Creating Account
-  - Address
-    - Address Formats
-    - Types
-  - Balance
-  - Alias
+    - Creating Account
+    - Address
+        - Address Formats
+        - Types
+    - Balance
+    - Alias
 - Transaction
-  - Transaction Creation, Signing, Verification
+    - Transaction Creation, Signing, Verification
 - Block
-  - Block Generation
-  - Block Height
-  - Block Signature
-  - Block Hash
-    - Previous Hash
-  - Genesis Block
+    - Block Generation
+    - Block Height
+    - Block Signature
+    - Block Hash
+        - Previous Hash
+    - Genesis Block
 - Blockchain
 - Ledger
 - Consensus Algorithms
-  - Proof of Work (PoW)
-  - Proof of Stake (PoS)
-  - **Proof of Authority (PoA)**
+    - Proof of Work (PoW)
+    - Proof of Stake (PoS)
+    - **Proof of Authority (PoA)**
 - Network
-  - Network Creation, Configuration, Connection
-  - Permission Network
-  - Permission Less Network (P2P)
-  - Environments
-    - Mainnet
-    - Testnet
+    - Network Creation, Configuration, Connection
+    - Permission Network
+    - Permission Less Network (P2P)
+    - Environments
+        - Mainnet
+        - Testnet
 - Nodes
-  - Generating Node
-  - Validating Node
-  - Run a Node
+    - Generating Node
+    - Validating Node
+    - Run a Node
 - Mining
-  - **Mining Pool**
-  - **Mining Reward**
+    - **Mining Pool**
+    - **Mining Reward**
 - Fees
-  - **Transaction Fees**
-  - **Block Fees**
-  - **Mining Fees**
+    - **Transaction Fees**
+    - **Block Fees**
+    - **Mining Fees**
 - Blockchain Types
-  - Public
-  - **Private**
-  - **Hybrid**
-- Assets
-  - Currency
-  - Token
+    - Public
+    - **Private**
+    - **Hybrid**
+- Currency
+- Token
 - Smart Contracts
-  - Oracle
 - Wallet
-  - Authentication
-    - Keystore
-    - **Mnemonic Phrase**
-    - **Private Key**
+    - Authentication
+        - Keystore
+        - **Mnemonic Phrase**
+        - **Private Key**
 - **APIs**
-- Security
 - Advanced
-  - DApp
-    - Smart Contracts
-    - Web3
-  - DeFi
-    - NFT
-    - Stable Coins
-    - Farming
-    - Lending
-  - GameFi
-  - Metaverse
-- Others
-  - Forks
-  - Double Spending
-  - Block Explorer
-  - Consortium Blockchain
-  - Fungibility
-  - Halving
-  - Initial Coin Offering
-  - Lighting Network
-  - Mining Difficulty
+    - Security
+    - Scalability

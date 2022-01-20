@@ -8,82 +8,40 @@ A complimentary course on blockchain development where we will cover:
 
 ---
 
-### Technologies:
-These are the technologies you will learn during this whole journey.
-
-- Modules
-  - [BlockChain](guides/BLOCKCHAIN.md)
-    - BitCoin, Ethereum
-    - Web 3.0
-  - Smart Contracts (ERC20, ERC721, ERC1155)
-  - DApps
-    - DeFi
-    - NFT
-    - Stable Coins
-    - Farming
-    - Lending
-  - GameFi
-  - Metaverse
-  - Security (Blockchain, Smart Contract, Case Studies, etc.)
-- Programming Language
-  - [JavaScript](guides/JAVASCRIPT.md)
-  - Node
-  - [Solidity](guides/SOLIDITY.md)
-- Libraries / Frameworks
-  - [Web3](guides/WEB3.md)
-  - [React](guides/REACT.md)
-  - [HardHat](guides/HARDHAT.md)
-  - Open Zeppelin Contracts
-- Testing
-  - Jest
-  - Main Net
-  - Test Net (Ganache)
-  - Slither
-  - Echidna
-
----
-
 ### Lessons:
-- [ ] **Section 01 (Understanding, BASICS)**
-  - [ ] [Lesson 01](lessons/LESSON-01.md)
-  - [ ] [Lesson 02](lessons/LESSON-02.md)
-  - [ ] [Lesson 03](lessons/LESSON-03.md)
-  - [ ] [Lesson 04](lessons/LESSON-04.md)
-  - [ ] [Lesson 05](lessons/LESSON-05.md)
-  - [ ] [Lesson 06](lessons/LESSON-06.md)
-  - [ ] [Lesson 07](lessons/LESSON-07.md)
-  - [ ] [Lesson 08](lessons/LESSON-08.md)
-  - [ ] [Lesson 09](lessons/LESSON-09.md)
-  - [ ] [Lesson 10](lessons/LESSON-10.md)
-- [ ] **Section 02 (Blockchain Development, INTERMEDIATE)**
-  - [ ] [Lesson 11](lessons/LESSON-11.md)
-  - [ ] [Lesson 12](lessons/LESSON-12.md)
-  - [ ] [Lesson 13](lessons/LESSON-13.md)
-  - [ ] [Lesson 14](lessons/LESSON-14.md)
-  - [ ] [Lesson 15](lessons/LESSON-15.md)
-  - [ ] [Lesson 16](lessons/LESSON-16.md)
-  - [ ] [Lesson 17](lessons/LESSON-17.md)
-  - [ ] [Lesson 18](lessons/LESSON-18.md)
-  - [ ] [Lesson 19](lessons/LESSON-19.md)
-  - [ ] [Lesson 20](lessons/LESSON-20.md)
-- [ ] **Section 03 (Smart Contract Development, ADVANCED)**
-  - [ ] [Lesson 21](lessons/LESSON-21.md)
-  - [ ] [Lesson 22](lessons/LESSON-22.md)
-  - [ ] [Lesson 23](lessons/LESSON-23.md)
-  - [ ] [Lesson 24](lessons/LESSON-24.md)
-  - [ ] [Lesson 25](lessons/LESSON-25.md)
-  - [ ] [Lesson 26](lessons/LESSON-26.md)
-  - [ ] [Lesson 27](lessons/LESSON-27.md)
-  - [ ] [Lesson 28](lessons/LESSON-28.md)
-  - [ ] [Lesson 29](lessons/LESSON-29.md)
-  - [ ] [Lesson 30](lessons/LESSON-30.md)
+- [ ] Blockchain 101 (Understanding)
+  - [ ] Blockchain
+    - [ ] [Lesson 01](lessons/LESSON-01.md)
+    - [ ] [Lesson 02](lessons/LESSON-02.md)
+    - [ ] [Lesson 03](lessons/LESSON-03.md)
+    - [ ] [Lesson 04](lessons/LESSON-04.md)
+    - [ ] [Lesson 05](lessons/LESSON-05.md)
+  - [ ] Blockchain Applications
+    - [ ] [Lesson 06](lessons/LESSON-06.md)
+    - [ ] [Lesson 07](lessons/LESSON-07.md)
+    - [ ] [Lesson 08](lessons/LESSON-08.md)
+    - [ ] [Lesson 09](lessons/LESSON-09.md)
+    - [ ] [Lesson 10](lessons/LESSON-10.md)
+- [ ] Blockchain 201 (Development)
+  - [ ] Blockchain
+    - [ ] [Lesson 11](lessons/LESSON-11.md)
+    - [ ] [Lesson 12](lessons/LESSON-12.md)
+    - [ ] [Lesson 13](lessons/LESSON-13.md)
+    - [ ] [Lesson 14](lessons/LESSON-14.md)
+    - [ ] [Lesson 15](lessons/LESSON-15.md)
+  - [ ] Smart Contract
+    - [ ] [Lesson 16](lessons/LESSON-16.md)
+    - [ ] [Lesson 17](lessons/LESSON-17.md)
+    - [ ] [Lesson 18](lessons/LESSON-18.md)
+    - [ ] [Lesson 19](lessons/LESSON-19.md)
+    - [ ] [Lesson 20](lessons/LESSON-20.md)
 
 ---
 
 ### Guides:
-These are guides which you can refer during the course to learn more about blockchain development and its related technologies.
+These are guides which you can refer during the course to learn more about blockchain development.
 
-- [BlockChain](guides/BLOCKCHAIN.md)
+- [Blockchain](guides/BLOCKCHAIN.md)
 - [Solidity](guides/SOLIDITY.md)
 - [HardHat](guides/HARDHAT.md)
 - [Web3](guides/WEB3.md)
@@ -95,23 +53,34 @@ These are guides which you can refer during the course to learn more about block
 ### Projects:
 We will try to cover at least 3 full-fledged projects in this course.
 
-- [Project 01 - Build Custom Private BlockChain](projects/project-01/README.md)
-- [Project 02 - Build Custom Smart Contract (Autonomous, Oracles, Deployments, etc.)](projects/project-01/README.md)
-- [Project 03 - Build NFT Marketplace](projects/project-01/README.md)
+1. [How to build your own Blockchain](projects/project-01/README.md)
+2. [How to launch your own Token/Cryptocurrency](projects/project-02/README.md)
+3. [How to launch your own NFTs](projects/project-03/README.md)
 
 ---
 
-### Conclusion:
+### Technologies:
+These are the technologies you will learn during this whole journey if you proceed development.
 
-This course will be more than enough for you to make basic to intermediate blockchain developer or in general to understand the blockchain technologies.
+- Programming Language
+  - [Solidity](guides/SOLIDITY.md)
+- Libraries / Frameworks
+  - [Web3.js](guides/WEB3.md)
+  - [HardHat](guides/HARDHAT.md)
+  - Open Zeppelin Contracts
+- Testing
+  - Chai
+  - Slither
+  - Echidna
 
 ---
 
 ### Contribution:
 
-Anyone can contribute to this course. For contribution please reach me out on email.
+Anyone can contribute to this course. For contribution please read the [contribution guidelines](CONTRIBUTING.md), made the change, pull the request and wait for approval.
 
 ---
 
 ### Author:
+
 Mubashir Rasool Razvi (<rizimore@outlook.com>)
