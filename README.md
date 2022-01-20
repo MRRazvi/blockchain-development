@@ -43,8 +43,8 @@ A complimentary course on understanding of blockchain, its application and devel
   - [ ] Smart Contract
     - [ ] [Lesson 16 - Solidity](lessons/LESSON-16.md)
     - [ ] [Lesson 17 - Custom Smart Contract](lessons/LESSON-17.md)
-    - [ ] [Lesson 18 - ERC20](lessons/LESSON-18.md)
-    - [ ] [Lesson 19 - ERC721](lessons/LESSON-19.md)
+    - [ ] [Lesson 18 - Token (ERC20)](lessons/LESSON-18.md)
+    - [ ] [Lesson 19 - NFT (ERC721)](lessons/LESSON-19.md)
     - [ ] [Lesson 20 - Deployment](lessons/LESSON-20.md)
 
 ---
