@@ -1,6 +1,11 @@
 # BlockChain Development
 A complimentary course on understanding of blockchain, its application and development.
 
+- Understanding of Blockchain, Cryptocurrencies, DeFi, GameFi, Metaverse, Web3
+- Custom Blockchain Development
+- Custom Smart Contract Development
+- Projects like launching your own NFTs, 
+
 ---
 
 ### Prerequisites:
@@ -9,38 +14,38 @@ A complimentary course on understanding of blockchain, its application and devel
   - Technical Background (Computer, Internet)
 - Blockchain 201
   - Technical Background (Computer, Internet)
-  - Programming Basics (JS, Java, Python, etc.)
-  - Web Basics (HTMl, CSS, JS)
+  - Programming Basics
+  - Web Basics (HTMl, CSS, JavaScript)
 
 ---
 
 ### Lessons:
 - [ ] Blockchain 101 (Understanding)
   - [ ] Blockchain
-    - [ ] [Lesson 01](lessons/LESSON-01.md)
-    - [ ] [Lesson 02](lessons/LESSON-02.md)
-    - [ ] [Lesson 03](lessons/LESSON-03.md)
-    - [ ] [Lesson 04](lessons/LESSON-04.md)
-    - [ ] [Lesson 05](lessons/LESSON-05.md)
+    - [ ] [Lesson 01 - Introduction to course, blockchain, important of it, as a career](lessons/LESSON-01.md)
+    - [ ] [Lesson 02 - Use cases of blockchain](lessons/LESSON-02.md)
+    - [ ] [Lesson 03 - Building blocks of blockchain](lessons/LESSON-03.md)
+    - [ ] [Lesson 04 - How to use blockchain technology e.g. wallet, bitcoin, trading](lessons/LESSON-04.md)
+    - [ ] [Lesson 05 - Earning through blockchain technologies](lessons/LESSON-05.md)
   - [ ] Blockchain Applications
-    - [ ] [Lesson 06](lessons/LESSON-06.md)
-    - [ ] [Lesson 07](lessons/LESSON-07.md)
-    - [ ] [Lesson 08](lessons/LESSON-08.md)
-    - [ ] [Lesson 09](lessons/LESSON-09.md)
-    - [ ] [Lesson 10](lessons/LESSON-10.md)
+    - [ ] [Lesson 06 - Cryptocurrencies](lessons/LESSON-06.md)
+    - [ ] [Lesson 07 - DeFi](lessons/LESSON-07.md)
+    - [ ] [Lesson 08 - DOAs](lessons/LESSON-08.md)
+    - [ ] [Lesson 09 - NFTs](lessons/LESSON-09.md)
+    - [ ] [Lesson 10 - GameFi, Metaverse](lessons/LESSON-10.md)
 - [ ] Blockchain 201 (Development)
   - [ ] Blockchain
-    - [ ] [Lesson 11](lessons/LESSON-11.md)
-    - [ ] [Lesson 12](lessons/LESSON-12.md)
-    - [ ] [Lesson 13](lessons/LESSON-13.md)
-    - [ ] [Lesson 14](lessons/LESSON-14.md)
-    - [ ] [Lesson 15](lessons/LESSON-15.md)
+    - [ ] [Lesson 11 - Building Blockchain](lessons/LESSON-11.md)
+    - [ ] [Lesson 12 - API Access to our Blockchain](lessons/LESSON-12.md)
+    - [ ] [Lesson 13 - Decentralized Network](lessons/LESSON-13.md)
+    - [ ] [Lesson 14 - Syncing Network](lessons/LESSON-14.md)
+    - [ ] [Lesson 15 - Consensus](lessons/LESSON-15.md)
   - [ ] Smart Contract
-    - [ ] [Lesson 16](lessons/LESSON-16.md)
-    - [ ] [Lesson 17](lessons/LESSON-17.md)
-    - [ ] [Lesson 18](lessons/LESSON-18.md)
-    - [ ] [Lesson 19](lessons/LESSON-19.md)
-    - [ ] [Lesson 20](lessons/LESSON-20.md)
+    - [ ] [Lesson 16 - Solidity](lessons/LESSON-16.md)
+    - [ ] [Lesson 17 - Custom Smart Contract](lessons/LESSON-17.md)
+    - [ ] [Lesson 18 - ERC20](lessons/LESSON-18.md)
+    - [ ] [Lesson 19 - ERC721](lessons/LESSON-19.md)
+    - [ ] [Lesson 20 - Deployment](lessons/LESSON-20.md)
 
 ---
 
