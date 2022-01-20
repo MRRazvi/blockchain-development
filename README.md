@@ -4,7 +4,7 @@ A complimentary course on understanding of blockchain, its application and devel
 - Understanding of Blockchain, Cryptocurrencies, DeFi, GameFi, Metaverse, Web3
 - Custom Blockchain Development
 - Custom Smart Contract Development
-- Projects like launching your own NFTs, 
+- Projects like launching your own NFTs, Tokens and Blockchain
 
 ---
 
