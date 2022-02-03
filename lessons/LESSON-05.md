@@ -14,7 +14,7 @@ If you're a crypto investor, staking is a concept you'll hear about often. Staki
 **Read more about Stacking:** [What Is Staking in Crypto?, and how does it work?](https://www.fool.com/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/what-is-staking/)
 
 ###  - Day Trading
-Day Trading is also an option for Non-developer to earn via blockchain. Intraday trading, also called day trading, is one of the trading strategies used in both the stock and crypto market. It means buying and selling stocks/cryptocurrency on the same day. The purpose behind intraday trading is to reap benefits by price movements during the same trading day, i.e. before the market closes. However, the investor does not get ownership of the stocks in intraday trading. A person can do intraday trading through online trading platforms. 
+Day Trading is also an option for Non-developer to earn via blockchain. Intraday trading, also called day trading, is one of the trading strategies used in both the stock and crypto market. It means buying and selling stocks/cryptocurrency on the same day. The purpose behind intraday trading is to reap benefits by price movements during the same trading day, i.e. before the market closes. However, the investor does not get ownership of the stocks in intraday trading. A person can do intraday trading through online trading platforms.  
 
 **Read more about Day and Arbitrage Trading:** [Know about intraday and arbitrage trading in cryptocurrency](https://cleartax.in/s/cryptocurrency-intraday-and-arbitrage-trading)
 
