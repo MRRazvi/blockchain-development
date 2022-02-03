@@ -30,7 +30,7 @@ Bitcoin mining is the process by which new bitcoins are entered into circulation
 **Read more about Liqquidity Farming:** [How does bitcoin mining work?](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
 )
 
-
+<br><br>
 # **Devloper**
 The demand for Blockchain Developers is higher than at any time before. As more and more industries are becoming reliant on the software, the demand for developers is increasing. I think the world actually needs more engineers. People that observe, think, design, and create effective and practical solutions to problems.
 Following are the ways by which you can earn from blockchain as a Developer:
